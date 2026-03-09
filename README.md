@@ -1,53 +1,100 @@
 
-# Olá, eu sou o David Nicolini! 👋
+# Hello, I am David Nicolini! 👋
 
-### Analista e Desenvolvedor de Sistemas | Especialista Java
+### Systems Analyst and Developer | Java Specialist
 
-Sou um profissional focado na entrega de soluções robustas e escaláveis, com domínio completo do ciclo de vida de desenvolvimento de software. Minha expertise abrange desde a **Engenharia de Requisitos** até a implementação de sistemas críticos utilizando o ecossistema **Java** e metodologias ágeis.
-
----
-
-### 🛠️ Minhas Competências Técnicas (Hard Skills)
-
-#### **Desenvolvimento Java Avançado**
-*   **Programação Orientada a Objetos (POO):** Aplicação rigorosa dos pilares de **Encapsulamento**, **Herança**, **Polimorfismo** e uso de interfaces/classes abstratas.
-*   **Persistência de Dados:** Domínio de **JDBC** para operações SQL e **API JPA (Java Persistence API)** para mapeamento objeto-relacional (ORM).
-*   **Interfaces Gráficas:** Criação de aplicações desktop utilizando a biblioteca **Swing**.
-*   **Java Collections Framework:** Manipulação eficiente de dados com List, Set, Map e Queue.
-
-#### **Análise e Modelagem de Sistemas (UML/BPMN)**
-*   **Engenharia de Requisitos:** Levantamento, análise e especificação de requisitos funcionais e não funcionais.
-*   **Modelagem UML:** Criação de diagramas de **Casos de Uso**, **Classes**, **Sequência**, **Atividades** e **Máquina de Estados**.
-*   **Processos de Negócio:** Mapeamento e otimização de fluxos utilizando a notação **BPMN**.
-
-#### **Bancos de Dados e Algoritmos**
-*   **SQL:** Modelagem e manipulação de bancos de dados relacionais (PostgreSQL, MySQL, Oracle) e criação de **DER (Diagrama Entidade-Relacionamento)**.
-*   **Estruturas de Dados:** Implementação de algoritmos complexos, incluindo Pilhas, Filas, Listas Dinâmicas, **Árvores Binárias e Grafos**.
+I am a professional focused on delivering robust and scalable solutions, with full command of the software development lifecycle. My expertise ranges from **Requirements Engineering** to the implementation of critical systems using the Java ecosystem and agile methodologies.
 
 ---
 
-### 🚀 Metodologias e Gestão
+### 🛠️ My Technical Skills (Hard Skills)
 
-*   **Agilidade:** Prática avançada em **Scrum** (Sprints, Backlogs, Cerimônias), **Extreme Programming (XP)** e **FDD (Feature Driven Development)**.
-*   **Qualidade e Configuração (SCM):** Controle de versão, gerenciamento de mudanças e releases, e monitoramento por normas de qualidade como **ISO/IEC 9126**.
-*   **DevOps:** Implementação de **Pipelines de Implantação** e **Integração Contínua (CI/CD)** para entregas rápidas e confiáveis.
+#### **Advanced Java Development**
+*   **Object-Oriented Programming (OOP):** Rigorous application of the pillars of **Encapsulation**, **Inheritance**, **Polymorphism**, and the use of interfaces/abstract classes.
+*   **Data Persistence:** Proficiency in JDBC for SQL operations and **JPA API (Java Persistence API)** for object-relational mapping (ORM).
+*   **IGraphical Interfaces:** Creation of desktop applications using the **Swing** library..
+*   **Java Collections Framework:** Efficient data manipulation with List, Set, Map, and Queue.
+
+#### **Systems Analysis and Modeling (UML/BPMN)**
+*   **Requirements Engineering:** Elicitation, analysis, and specification of functional and non-functional requirements.
+*   **UML Modeling:** Creation of Use Case, Class, Sequence, Activity, and State Machine diagrams.
+*   **Business Processes:** Mapping and optimization of workflows using **BPMN** notation.
+
+#### **Databases and Algorithms**
+*   **SQL:** Modeling and manipulation of relational databases (PostgreSQL, MySQL, Oracle) and creation of **ERD (Entity-Relationship Diagram)**.
+*   **Data Structures:** Implementation of complex algorithms, including Stacks, Queues, Dynamic Lists, **Binary Trees, and Graphs**.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Methodologies and Management
 
-<!-- Substitua 'seu-usuario' pelo seu nome de usuário real do GitHub -->
-![davidnicolini](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Java](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+*   **Agility:** Advanced practice in Scrum** (Sprints, Backlogs, Ceremonies), **Extreme Programming (XP)**, and **FDD (Feature Driven Development).**.
+*   **Quality and Configuration (SCM):** Version control, change and release management, and monitoring through quality standards such as **ISO/IEC 9126**.
+*   **DevOps:** Implementation of **Deployment Pipelines** and **Continuous Integration (CI/CD)** for fast and reliable deliveries.
+
+---
+
+### 📊 GitHub Statistics
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" alt="arch linux"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align
 
 ---
 
 ### 📫 Como me encontrar:
 
-*   **LinkedIn:** [www.linkedin.com/in/davidnicolini](www.linkedin.com/in/davidnicolini)
-*   **Portfólio:** [https://github.com/davidnicolini](https://github.com/davidnicolini)
-*   **E-mail:** [ewersom2017@gmail.com](mailto:ewersom2017@gmail.com)
+###
+  
+  <a href="https://www.youtube.com/@davidnicolini" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-channel-red?style=for-the-badge&logo=youtube&logoColor=#FF0000"  />
+  </a>
+  <a href="https://www.instagram.com/david_nicolini/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram&logoColor=#FF0069"  />
+  </a>
+  <a href="https://br.linkedin.com/in/davidnicolini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkerd&logoColor=#2BEDA7"  />
+  </a>
+    <a href="https://github.com/davidnicolini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-green?style=for-the-badge&logo=github&logoColor=#181717"  />
+  </a>
+  <a href="mailto:ewersom2017@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
+
+###
+
+<br clear="both">
 
 ---
-*"Programar é uma 'arte moderna' em que aquele que detém o maior poder de abstração possível é aquele que melhor saberá desenvolver os seus programas."*
+*"Programming is a 'modern art' in which the one who holds the greatest possible power of abstraction is the one who will best know how to develop their programs."*
 ```
