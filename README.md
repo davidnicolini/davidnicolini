@@ -1,7 +1,7 @@
 
 # Hello, I am David Nicolini! 👋
 
-### Systems Analyst and Developer | Java Specialist
+### Java Backend Developer | Spring Boot | PostgreSQL | Docker | Postgraduate Student in Software Architecture
 
 I am a professional focused on delivering robust and scalable solutions, with full command of the software development lifecycle. My expertise ranges from **Requirements Engineering** to the implementation of critical systems using the Java ecosystem and agile methodologies.
 
