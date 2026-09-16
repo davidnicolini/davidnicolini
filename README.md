@@ -1,5 +1,5 @@
 
-# Hello, I am David Nicolini! 👋
+# Hello everyone! I'm David Nicolini! 👋
 
 ### Java Backend Developer | Spring Boot | PostgreSQL | Docker | Postgraduate Student in Software Architecture
 
